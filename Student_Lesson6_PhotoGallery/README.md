@@ -13,7 +13,7 @@ Helei Gomariz
 Creating a dynamic photo gallery.
 
 ### View Project:
-https://heleirious.github.io/lesson6_javascript3/
+https://heleirious.github.io/lesson6_javascript3/Student_Lesson6_PhotoGallery/
 
 ### Lessons Learned in the Assignment:
 1. BOM - browser object model: used by Jquery to specify objects properties and methods of a browser and their relationships. 
